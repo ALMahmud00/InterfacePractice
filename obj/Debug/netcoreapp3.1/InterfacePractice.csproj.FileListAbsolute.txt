@@ -1,0 +1,11 @@
+C:\Users\mahmud\source\repos\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.csprojAssemblyReference.cache
+C:\Users\mahmud\source\repos\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.AssemblyInfoInputs.cache
+C:\Users\mahmud\source\repos\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.AssemblyInfo.cs
+C:\Users\mahmud\source\repos\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.exe
+C:\Users\mahmud\source\repos\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.deps.json
+C:\Users\mahmud\source\repos\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.runtimeconfig.json
+C:\Users\mahmud\source\repos\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.runtimeconfig.dev.json
+C:\Users\mahmud\source\repos\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.dll
+C:\Users\mahmud\source\repos\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.pdb
+C:\Users\mahmud\source\repos\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.dll
+C:\Users\mahmud\source\repos\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.pdb
